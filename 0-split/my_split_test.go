@@ -42,7 +42,7 @@ func TestSomething(t *testing.T) {
 	object := struct {
 		Value string
 	}{}
-	assert.Nil(object)
+	assert.NotNil(object)
 
 	object.Value = "Something"
 	// assert for not nil (good when you expect something)

@@ -1,4 +1,8 @@
-# Go单元测试从入门到放弃—0.单元测试基础
+运行单测
+```shell
+go test ./...
+```
+# [Go单元测试从入门到放弃—0.单元测试基础](https://github.com/834810071/go-study-lab/tree/master/0-split)
 ```shell
 # 在执行go test命令的时候可以添加-run参数，它对应一个正则表达式，只有函数名匹配上的测试函数才会被go test命令执行
 go test -run=Sep -v
@@ -45,12 +49,12 @@ go tool cover -html=c.out
 go get github.com/stretchr/testify
 ```
 
-# Go单元测试--模拟服务请求和接口返回
+# [Go单元测试--模拟服务请求和接口返回](https://github.com/834810071/go-study-lab/tree/master/1-http)
 ```shell
 go get -u gopkg.in/h2non/gock.v1
 ```
 
-# Go单测测试 — 数据库 CRUD 的 Mock 测试
+# [Go单测测试 — 数据库 CRUD 的 Mock 测试](https://github.com/834810071/go-study-lab/tree/master/2-sql)
 ```shell
 # sqlmock 是一个实现 sql/driver 的mock库。
 go get github.com/DATA-DOG/go-sqlmock
@@ -58,6 +62,6 @@ go get github.com/DATA-DOG/go-sqlmock
 go get github.com/alicebob/miniredis/v2
 ```
 
-# 在项目里怎么给 GORM 做单元测试
+# [在项目里怎么给 GORM 做单元测试](https://github.com/834810071/go-study-lab/tree/master/3-orm)
 
 
