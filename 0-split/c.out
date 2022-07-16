@@ -1,0 +1,4 @@
+mode: set
+go-unit-test/0-split/split.go:6.45,9.13 2 1
+go-unit-test/0-split/split.go:14.2,15.8 2 1
+go-unit-test/0-split/split.go:9.13,13.3 3 1

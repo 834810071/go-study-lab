@@ -1,0 +1,1 @@
+[在项目里怎么给 GORM 做单元测试](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247493509&idx=1&sn=0ce740cf9e03d921b3f233a599608c7d&chksm=fa833612cdf4bf0412a350cede068a88defa2997b8bbacb8bd74bd9340dc8f1999981573b714&token=1814222456&lang=zh_CN&scene=21#wechat_redirect)

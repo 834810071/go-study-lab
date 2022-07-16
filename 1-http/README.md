@@ -1,0 +1,1 @@
+[Go单元测试--模拟服务请求和接口返回](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247493046&idx=1&sn=ae752b8f59b6575438bda5372acbf819&chksm=fa833421cdf4bd37eaa3adf37ace2865b3921c7bba58a58a7e03e8df3644b11abe0aa1e6653f&token=1818003063&lang=zh_CN&scene=21#wechat_redirect)
