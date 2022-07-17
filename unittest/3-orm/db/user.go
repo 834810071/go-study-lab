@@ -1,7 +1,7 @@
 package db
 
 import (
-	"go-unit-test/3-orm/table"
+	"go-unit-test/unittest/3-orm/table"
 	"time"
 
 	_ "github.com/go-sql-driver/mysql"

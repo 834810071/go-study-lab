@@ -3,8 +3,8 @@ package db
 import (
 	"database/sql"
 	"database/sql/driver"
-	"go-unit-test/3-orm/table"
-	"go-unit-test/utils/zlog"
+	"go-unit-test/unittest/3-orm/table"
+	"go-unit-test/unittest/utils/zlog"
 	"os"
 	"testing"
 	"time"
