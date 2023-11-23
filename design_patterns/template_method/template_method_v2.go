@@ -16,9 +16,13 @@ type Worker struct {
 
 // Daily 定义一个工作者的日常行为
 func (w *Worker) Daily() {
+	w.getUp()
 	w.GetUp()
 	w.Working()
 	w.Sleep()
+}
+func (e *Worker) getUp() {
+	fmt.Println("Worker...")
 }
 
 // NewWorker 任何实现了WorkInterface的子类，都可以传入到其中，然后调用其日常方法，就能实现子类的三个具体实现，即多态的实现
